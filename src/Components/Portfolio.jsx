@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "3D TShirt Customizer Using AI",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "3d T Shirt Customizer using AI Built Using React and Open API.",
+    url: "https://github.com/sumukhmg/3d-Tshirt-customizable-using-ai",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Multiplayer Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "simple multiplayer game using HTML, CSS, JavaScript and Firebase",
+    url: "https://github.com/sumukhmg/Multiplayer-Game",
   },
   {
-    title: "My Resume Site",
+    title: "Cyber Bulling Detector using Ml",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Detect Offensive Tweets Using ML.",
+    url: "https://github.com/sumukhmg/Cyber_Bullying",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Music Player",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Simple Music Player Using HTML, CSS and JavaScript.",
+    url: "https://github.com/sumukhmg/music-player",
   },
 ];
 
